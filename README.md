@@ -3,4 +3,4 @@ In this lab, I created a step-by-step tutorial on how to use the software Pepper
 ## Overview
 1. [Creating a new ticket, add a new user, and creating a new contact](https://github.com/jvilla1901/PeppermintOverviewTutorial/blob/main/NewTicket.md)
 2. [Escalating the ticket to another user](https://github.com/jvilla1901/PeppermintOverviewTutorial/blob/main/escalatingUser.md)
-3. Example of how I troubleshoot problems using the CompTIA troubleshooting methodology. 
+3. [Example of how I troubleshoot problems using the CompTIA troubleshooting methodology](https://github.com/jvilla1901/PeppermintOverviewTutorial/blob/main/troubleshootExample.md)
